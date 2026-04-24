@@ -38,7 +38,6 @@ Projeto interativo com manipulação de eventos e DOM
 
 ### 🎬 Sistema de Cinema (GoodCine)
 Interface de reserva de assentos com integração futura com API em C# e MySQL  
-👉 (adicione o link quando subir)
 
 ---
 
